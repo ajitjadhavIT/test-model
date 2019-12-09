@@ -1,3 +1,4 @@
 # test-model
- I can explain about neural netwok in deep (mathematical part)
+ explained about neural netwok in deep (mathematical part)
 
+back proposation will be coming soon......................
